@@ -2,8 +2,8 @@ import PropTypes from 'prop-types';
 import css from './Statistics.module.css'; 
 
 export const Statistics = ({
-  options, 
-  statistic, 
+  options,
+  statistic,
   total,
   positivePercentage,
 }) => {
